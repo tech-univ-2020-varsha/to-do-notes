@@ -1,0 +1,22 @@
+{
+    "notes": [
+        {
+            "id": 1,
+            "title": "maths",
+            "description": "maths is an intresting subject",
+            "isActive": true
+        },
+        {
+            "id": 2,
+            "title": "js",
+            "description": "js is weird",
+            "isActive": true
+        },
+        {
+            "title": "pic",
+            "description": "pic is a subject",
+            "id": "2ad982df-0e5c-4fae-8e3c-ab3b552eaf0c",
+            "isActive": true
+        }
+    ]
+}
